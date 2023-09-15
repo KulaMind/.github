@@ -10,6 +10,6 @@ Download on [Apple Store](https://apps.apple.com/us/app/seon-support/id646284450
 
 ## PerspectBuddy
 
-PerspectBuddy is a chatbot we built for mental health support.
+PerspectBuddy is a discord chatbot we built for mental health support.
 
 Join our [discord server](https://discord.gg/jFSunA4yCK) to try out the chatbot.
