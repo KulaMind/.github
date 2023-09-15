@@ -4,7 +4,7 @@ Building the next generation AI chatbots to support founder mental health.
 
 ## Seon Support
 
-Seon Support is an app with 7 unique chatbots for mental health support.
+Seon Support is an app with 7 unique mental health chatbots.
 
 Download on [Apple Store](https://apps.apple.com/us/app/seon-support/id6462844504) or [Google Play](https://play.google.com/store/apps/details?id=com.seonhealth.perspectbuddy).
 
