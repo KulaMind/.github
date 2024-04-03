@@ -1,15 +1,3 @@
 # What we do
 
-Building the next generation AI chatbots to support founder mental health.
-
-## Seon Support
-
-Seon Support is an app with 7 unique mental health chatbots.
-
-Download on [Apple Store](https://apps.apple.com/us/app/seon-support/id6462844504) or [Google Play](https://play.google.com/store/apps/details?id=com.seonhealth.perspectbuddy).
-
-## PerspectBuddy
-
-PerspectBuddy is a discord chatbot we built for mental health support.
-
-Join our [discord server](https://discord.gg/jFSunA4yCK) to try out the chatbot.
+Seon Health strives to democratize mental healthcare with a special emphasis on improving people's interpersonal relationships. We believe that the best way to deliver high-quality mental healthcare is to make top-level clinical expertise more accessible to those who need it the most. To do so, we're building an AI copilot that assesses your individual needs and provides the frameworks, skills and strategies from psychological science that can help you feel more connected in your daily life.
